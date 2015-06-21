@@ -5,3 +5,4 @@ To my reviewers, I did complete this project and the result is shown in the Pitc
 I put a lot of work into this so am hoping to still get some credit for this effort!  It appears that the problem with shinyapps.io is beyond my control.  Thanks.
 
 
+![Alt text](/screenshots/Screen Shot 2015-06-21 at 9.04.18 AM.png?raw=true "shinyapps")
